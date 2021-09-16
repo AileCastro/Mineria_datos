@@ -9,7 +9,7 @@
 
 [Avance 1 del PIA](https://github.com/EdgarMdlln/Mineria_datos/blob/main/Avance1_PIA_Equipo7.ipynb)
 
-** Fase II
+## Fase II
 
 [Presentacion tecnicas de mineria](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Presetaci%C3%B3n%20de%20Visualizacion.pdf)
 
