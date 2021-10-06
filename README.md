@@ -16,3 +16,5 @@
 [Preguntas de visualizacion](https://github.com/Yazielbaralc1/Mineria_de_Datos.phyton-/blob/main/Preguntas%20Visualizaci%C3%B3n.pdf)
 
 [Practica 2](https://github.com/EdgarMdlln/Mineria_datos/blob/main/Visualizacion_Equipo7.ipynb)
+
+[Avance 2 del Pia](https://github.com/EdgarMdlln/Mineria_datos/blob/main/AvancePIA_II_002_Equipo7.ipynb)
